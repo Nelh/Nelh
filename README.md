@@ -1,6 +1,6 @@
 Hi there :)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -13,8 +13,4 @@ Hi there :)
 | ------------- | ------------- |
 
 #### Top Repositories
-
-
-<a href="https://github.com/nelh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nelh&repo=github-readme-stats&theme=buefy" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelh)](https://git.io/streak-stats)
