@@ -1,6 +1,7 @@
-Hi there :)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
+<br>
 
-- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelh)](https://git.io/streak-stats)  
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -12,5 +13,3 @@ Hi there :)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nelh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nelh github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelh)](https://git.io/streak-stats)
